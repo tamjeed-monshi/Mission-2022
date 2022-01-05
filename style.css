@@ -1,0 +1,80 @@
+section {
+  display: flex;
+}
+h1 {
+  font-family: "Source Serif Pro", serif;
+  font-size: 50px;
+  font-weight: 700px;
+}
+span {
+  color: orange;
+}
+a {
+  color: white;
+  background-color: tomato;
+  text-decoration: none;
+  padding: 10px 40px;
+  border-radius: 5px;
+  font-weight: bold;
+  margin-top: 20px;
+}
+.half {
+  width: 50%;
+  margin: 100px;
+}
+.half img {
+  width: 55%;
+}
+.h1-center {
+  text-align: center;
+}
+#mission {
+  width: 33%;
+  background-color: skyblue;
+  border-radius: 20px;
+  padding: 50px;
+  margin: 50px 10px 50px 100px;
+}
+#vission {
+  background-color: thistle;
+  border-radius: 20px;
+  padding: 50px;
+  width: 33%;
+  margin: 50px 10px 50px 10px;
+}
+#goal {
+  background-color: wheat;
+  padding: 50px;
+  width: 33%;
+  margin: 50px 100px 50px 10px;
+  border-radius: 20px;
+}
+.image-illustrators {
+  width: 150px;
+}
+#coding-image {
+  width: 400px;
+  height: 400px;
+  margin: 50px 0px 50px 100px;
+}
+#coding-image img {
+  width: 100%;
+}
+#about {
+  margin: 50px 100px 50px 60px;
+}
+#about p {
+  font-weight: normal;
+  font-size: 20px;
+}
+#contact {
+  margin: 50px 0px 50px 100px;
+}
+#project-image {
+  width: 400px;
+  height: 400px;
+  margin: 50px 0px 50px 300px;
+}
+#project-image img {
+  width: 100%;
+}
