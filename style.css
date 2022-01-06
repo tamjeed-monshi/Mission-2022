@@ -1,3 +1,7 @@
+body {
+  margin: 0;
+  background-color: #FEF5ED;
+}
 section {
   display: flex;
 }
@@ -77,4 +81,25 @@ a {
 }
 #project-image img {
   width: 100%;
+}
+#mail {
+  margin: 50px 0px 50px 100px;
+}
+.button {
+  padding: 5px 15px;
+  font-weight: 800;
+  background-color: tomato;
+  border-radius: 15px;
+}
+#footer {
+  background-color: aquamarine;
+  text-align: center;
+}
+#footer-head {
+  padding: 50px 0px 50px 0px;
+  margin: 0%;
+}
+#footer-tel {
+  margin: 0%;
+  padding: 0px 0px 50px 0px;
 }
